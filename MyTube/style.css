@@ -1,0 +1,7 @@
+.video_principal{
+   margin: 15px;
+}
+
+.videos_laterais{
+    justify-items: flex-start;
+}
